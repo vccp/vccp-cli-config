@@ -1,0 +1,14 @@
+{
+  "boilerplates":{
+    "componentjs":{
+      "name": "componentjs boilerplate",
+      "repoLink":"https://github.com/fahimc/component-boilerplate.git",
+      "install": "npm install"
+    },
+    "babel":{
+      "name": "babel boilerplate",
+      "repoLink":"https://github.com/fahimc/babel-seed.git",
+      "install": "npm install"
+    }
+  }
+}
