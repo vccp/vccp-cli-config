@@ -9,6 +9,11 @@
       "name": "babel boilerplate",
       "repoLink":"https://github.com/fahimc/babel-seed.git",
       "install": "npm install"
+    },
+    "modular":{
+      "name": "modular frontend boilerplate",
+      "repoLink":"https://github.com/vccp/modular-frontend-boilerplate.git",
+      "install": "npm install"
     }
   }
 }
